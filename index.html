@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>电影年代信息流</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="theme-toggle">
+    <label class="switch">
+      <input type="checkbox" id="theme-switch">
+      <span class="slider"></span>
+    </label>
+    <span>浅色模式</span>
+  </div>
+  <nav class="view-switcher">
+    <button class="view-button active" data-view="year">按年份</button>
+    <button class="view-button" data-view="director">按导演</button>
+    <button class="view-button" data-view="actor">按演员</button>
+  </nav>
+  <main class="main-container">
+    <aside class="timeline">
+      <h2>电影时间轴</h2>
+      <div class="timeline-list"></div>
+    </aside>
+    <div class="movie-list">
+      <h1>那些年我喜欢的电影</h1>
+      <div class="movie-grid"></div>
+    </div>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>

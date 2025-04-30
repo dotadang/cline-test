@@ -1,0 +1,207 @@
+[
+  {
+    "title": "肖申克的救赎",
+    "titleEn": "The Shawshank Redemption",
+    "director": "弗兰克·德拉邦特",
+    "year": 1994,
+    "actors": ["蒂姆·罗宾斯", "摩根·弗里曼", "鲍勃·冈顿"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "title": "阿甘正传",
+    "titleEn": "Forrest Gump",
+    "director": "罗伯特·泽米吉斯", 
+    "year": 1994,
+    "actors": ["汤姆·汉克斯", "罗宾·怀特", "加里·西尼斯"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "title": "这个杀手不太冷",
+    "titleEn": "Léon: The Professional",
+    "director": "吕克·贝松",
+    "year": 1994,
+    "actors": ["让·雷诺", "娜塔莉·波特曼", "加里·奥德曼"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BODllNWE0MmEtYjUwZi00ZjY3LThmNmQtZjZlMjI2YTZjYmQ0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg"
+  },
+  {
+    "title": "低俗小说",
+    "titleEn": "Pulp Fiction",
+    "director": "昆汀·塔伦蒂诺",
+    "year": 1994,
+    "actors": ["约翰·特拉沃尔塔", "乌玛·瑟曼", "塞缪尔·杰克逊"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+  },
+  {
+    "title": "教父",
+    "titleEn": "The Godfather",
+    "director": "弗朗西斯·福特·科波拉",
+    "year": 1972,
+    "actors": ["马龙·白兰度", "阿尔·帕西诺", "詹姆斯·肯恩"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+  },
+  {
+    "title": "指环王3：王者归来",
+    "director": "彼得·杰克逊",
+    "year": 2003,
+    "actors": ["伊利亚·伍德", "维果·莫腾森", "伊恩·麦克莱恩"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+  },
+  {
+    "title": "黑暗骑士",
+    "titleEn": "The Dark Knight",
+    "director": "克里斯托弗·诺兰", 
+    "year": 2008,
+    "actors": ["克里斯蒂安·贝尔", "希斯·莱杰", "艾伦·艾克哈特"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+  },
+  {
+    "title": "盗梦空间",
+    "titleEn": "Inception",
+    "director": "克里斯托弗·诺兰",
+    "year": 2010,
+    "actors": ["莱昂纳多·迪卡普里奥", "约瑟夫·高登-莱维特", "艾伦·佩姬"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
+  },
+  {
+    "title": "寄生虫",
+    "titleEn": "Parasite",
+    "director": "奉俊昊",
+    "year": 2019,
+    "actors": ["宋康昊", "李善均", "赵汝贞"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"
+  },
+  {
+    "title": "唐伯虎点秋香",
+    "director": "李力持",
+    "year": 1993,
+    "actors": ["周星驰", "巩俐", "陈百祥"],
+    "poster": "https://image.tmdb.org/t/p/original/bwraKL2xO66M1mTIf2Oo7HPaXws.jpg"
+  },
+  {
+    "title": "少林足球",
+    "titleEn": "Shaolin Soccer",
+    "director": "周星驰",
+    "year": 2001,
+    "actors": ["周星驰", "赵薇", "吴孟达"],
+    "poster": "https://image.tmdb.org/t/p/original/rwfeeT02j1z5SBgJOH2eOwNCNQO.jpg"
+  },
+  {
+    "title": "功夫",
+    "titleEn": "Kung Fu Hustle",
+    "director": "周星驰",
+    "year": 2004,
+    "actors": ["周星驰", "元秋", "元华"],
+    "poster": "https://image.tmdb.org/t/p/original/gi1AGjs8LyigxPDBosWOsOLlNwZ.jpg"
+  },
+  {
+    "title": "阿凡达",
+    "titleEn": "Avatar",
+    "director": "詹姆斯·卡梅隆",
+    "year": 2009,
+    "actors": ["萨姆·沃辛顿", "佐伊·索尔达娜", "西格妮·韦弗"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_.jpg"
+  },
+  {
+    "title": "阿凡达2",
+    "titleEn": "Avatar: The Way of Water",
+    "director": "詹姆斯·卡梅隆",
+    "year": 2022,
+    "actors": ["萨姆·沃辛顿", "佐伊·索尔达娜", "西格妮·韦弗"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "title": "泰坦尼克号",
+    "titleEn": "Titanic",
+    "director": "詹姆斯·卡梅隆",
+    "year": 1997,
+    "actors": ["莱昂纳多·迪卡普里奥", "凯特·温斯莱特", "比利·赞恩"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg"
+  },
+  {
+    "title": "星际穿越",
+    "titleEn": "Interstellar",
+    "director": "克里斯托弗·诺兰",
+    "year": 2014,
+    "actors": ["马修·麦康纳", "安妮·海瑟薇", "杰西卡·查斯坦"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+  },
+  {
+    "title": "哪吒之魔童闹海",
+    "director": "饺子", 
+    "year": 2025,
+    "actors": ["吕艳婷", "囧森瑟夫", "瀚墨", "敖丙"],
+    "poster": "https://image.tmdb.org/t/p/original/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg"
+  },
+  {
+    "title": "变形金刚",
+    "titleEn": "Transformers",
+    "director": "迈克尔·贝",
+    "year": 2007,
+    "actors": ["希亚·拉博夫", "梅根·福克斯", "乔什·杜哈明"],
+    "poster": "https://image.tmdb.org/t/p/original/6eehp9I54syN3x753XMqjKz8M3F.jpg"
+  },
+  {
+    "title": "钢铁侠",
+    "titleEn": "Iron Man",
+    "director": "乔恩·费儒",
+    "year": 2008,
+    "actors": ["小罗伯特·唐尼", "格温妮斯·帕特洛", "泰伦斯·霍华德"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_.jpg"
+  },
+  {
+    "title": "复仇者联盟",
+    "titleEn": "The Avengers",
+    "director": "乔斯·韦登",
+    "year": 2012,
+    "actors": ["小罗伯特·唐尼", "克里斯·埃文斯", "斯嘉丽·约翰逊"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+  },
+  {
+    "title": "美国队长",
+    "titleEn": "Captain America: The First Avenger",
+    "director": "乔·庄斯顿",
+    "year": 2011,
+    "actors": ["克里斯·埃文斯", "海莉·阿特维尔", "塞巴斯蒂安·斯坦"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_.jpg"
+  },
+  {
+    "title": "黑客帝国",
+    "titleEn": "The Matrix",
+    "director": "莉莉·沃卓斯基",
+    "year": 1999,
+    "actors": ["基努·里维斯", "劳伦斯·菲什伯恩", "凯瑞-安·莫斯"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+  },
+  {
+    "title": "黑客帝国2：重装上阵",
+    "titleEn": "The Matrix Reloaded",
+    "director": "莉莉·沃卓斯基",
+    "year": 2003,
+    "actors": ["基努·里维斯", "劳伦斯·菲什伯恩", "凯瑞-安·莫斯"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BODE0MzZhZTgtYzkwYi00YmI5LThlZWYtOWRmNWE5ODk0NzMxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+  },
+  {
+    "title": "黑客帝国3：矩阵革命",
+    "titleEn": "The Matrix Revolutions",
+    "director": "莉莉·沃卓斯基",
+    "year": 2003,
+    "actors": ["基努·里维斯", "劳伦斯·菲什伯恩", "凯瑞-安·莫斯"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzNlZTZjMDQtZjYwNi00NzlhLWIzNmItNWU1Mzk3MGQ2N2U2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+  },
+  {
+    "title": "搏击俱乐部",
+    "titleEn": "Fight Club",
+    "director": "大卫·芬奇",
+    "year": 1999,
+    "actors": ["布拉德·皮特", "爱德华·诺顿", "海伦娜·伯翰·卡特"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+  },
+  {
+    "title": "燃情岁月",
+    "titleEn": "Legends of the Fall",
+    "director": "爱德华·兹威克",
+    "year": 1994,
+    "actors": ["布拉德·皮特", "安东尼·霍普金斯", "朱莉娅·奥蒙德"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjRmZjcwZTQtYWY0ZS00ODAwLTg4YTktZDhlZDMwMTM1MGFkXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg"
+  }
+]
